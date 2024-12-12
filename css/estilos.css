@@ -1,12 +1,22 @@
 body{
-    color: rebeccapurple;
+    color:brown;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
 
+#cabecera{
+    width: 100%;
+    background-color:rgb(184, 179, 152);
+    border: 0;
+    border-radius: 10%;
+    margin-right: auto;
+    color: gold;
+}
+
 #container{
-    width: 70%;
+    width: 80%;
     background-color: beige;
     border: 0;
-    border-radius: 15%;
+    border-radius: 10%;
+    align-content: center;
 }
