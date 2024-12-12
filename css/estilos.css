@@ -1,5 +1,12 @@
 body{
-    color: greenyellow;
+    color: rebeccapurple;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
+}
+
+#container{
+    width: 70%;
+    background-color: beige;
+    border: 0;
+    border-radius: 15%;
 }
