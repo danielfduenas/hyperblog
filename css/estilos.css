@@ -1,16 +1,23 @@
 body{
+    background: #1e1f21;
     color:brown;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
 
 #cabecera{
+    background: url("../imagenes/alemania.png") no-repeat center center co;
     width: 100%;
     background-color:rgb(184, 179, 152);
     border: 0;
     border-radius: 10%;
     margin-right: auto;
     color: gold;
+}
+
+#cabecera #logo{
+    width: 20px;
+    vertical-align: middle;
 }
 
 #container{
